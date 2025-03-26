@@ -1,5 +1,3 @@
-Claro! Com base no conteúdo do PDF, aqui está um modelo de `README.md` ideal para você usar no seu repositório do GitHub:
-
 ---
 
 # Desafio Técnico – Engenharia de Dados 🍻
@@ -113,5 +111,3 @@ O desafio deve ser entregue em até **1 semana** a partir da data de recebimento
 Dúvidas ou sugestões? Fique à vontade para abrir uma issue ou entrar em contato.
 
 ---
-
-Se quiser que eu monte a estrutura de arquivos ou o `requirements.txt`, é só falar!
