@@ -18,7 +18,7 @@ repos:
       - id: requirements
         name: requirements
         entry: >
-          .venv\Scripts\activate.bat
+          .venv\Scripts\activate
           pip freeze | findstr /V "@ file:" > requirements.txt
           git add requirements.txt
         language: system

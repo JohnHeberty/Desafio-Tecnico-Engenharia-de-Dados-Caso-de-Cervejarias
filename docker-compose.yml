@@ -23,6 +23,7 @@ x-airflow-common:
     - redis
 
 services:
+
   postgres:
     image: postgres:15
     environment:
